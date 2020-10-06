@@ -1,12 +1,14 @@
 ## Welcome to GitHub Pages
 
+
+
 You can use the [editor on GitHub](https://github.com/dgreenslade/dgreenslade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Capability Squad
 
-This is a test page created for the purposes of a demo.
+This is a test page created for the purposes of a demo.  Please see this [link](capability-squad).
 
 ### Markdown
 
